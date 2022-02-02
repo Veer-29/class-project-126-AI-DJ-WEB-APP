@@ -1,0 +1,49 @@
+body{
+    background-size:cover;
+}
+
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+    font-size: 15px;
+    color: blue;
+}
+
+.div_speed{
+    float: left;
+}
+
+.div_volume{
+    float: right;
+}
+
+.disk_img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed{
+    font-size: 25px;
+    margin: 15px;
+}
+
+#volume{
+    font-size: 25px;
+    margin: 15px;
+}
+
+.play_btn,.stop{
+    width: 130px;
+    font-size: 25px;
+    font-family: jokerman;
+}
+
+canvas{
+border: 5px dotted aqua;
+border-radius: 20px;
+box-shadow:10px 10px 10px purple;
+}
